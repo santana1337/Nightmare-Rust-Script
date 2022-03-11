@@ -1,11 +1,6 @@
-# Nightmare Rust script.
-Nightmare is a recoil script made for Rust.  
+# guiRUST
+imgui based rust recoil script coded in c++
 
-# How to use
-(You can also use the prebuilt file from the Debug folder.)
-```
-Step 1: Make sure that you have Visual studio installed!
-Step 2: Download all the files from this github post.
-Step 3: Open the rstgui.sln file to edit the source code.
-Step 4: Enjoy scripting/pasting! :)
-```
+this was my first attempt at implementing a gui in c++ so the methods used are not at all conventional or efficient.
+
+use this as a base and a base only.
