@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol Direct3DCreate9 referenced in function "bool __cdecl CreateDeviceD3D(struct HWND__ *)" (?CreateDeviceD3D@@YA_NPEAUHWND__@@@Z)
+C:\Users\Matelis\Desktop\guiRUST-script\x64\Debug\norecoil.exe : fatal error LNK1120: 1 unresolved externals

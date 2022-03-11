@@ -1,0 +1,39 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Source.cpp
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Weapons.h(15,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(49,1): warning C4005: 'FG_WHITE': macro redefinition
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(47): message : see previous definition of 'FG_WHITE'
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(195,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(196,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(225,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(228,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(231,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(234,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(237,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(245,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(248,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(251,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(254,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(260,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(282,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(284,148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(284,242): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(289,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(291,132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(291,226): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(473,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(474,11): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(478,11): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(491,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(496,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(511,10): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(512,10): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Matelis\Desktop\guiRUST-script\norecoil\Source.cpp(513,10): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Generating Code...
+  norecoil.vcxproj -> C:\Users\Matelis\Desktop\guiRUST-script\Debug\norecoil.exe
